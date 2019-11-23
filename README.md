@@ -1,5 +1,12 @@
 # Ajax 호출에 대한 브라우저 반응 테스트
 
+> ### Environment: MacOS
+> ### Target Browser
+> - Chrome
+> - Safari
+> - Opera
+> - FireFox
+
 ## 테스트 과정
 
 1. 버튼 클릭
@@ -10,6 +17,10 @@
 $.ajax(data);
 location.href = '';
 ```
+
+## 결과
+
+> Environment: MacOS
 
 ### Online
 
